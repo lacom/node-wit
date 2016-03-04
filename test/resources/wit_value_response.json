@@ -1,0 +1,14 @@
+{
+  "lang" : "en",
+    "closed" : false,
+      "exotic" : false,
+        "values" : [ {
+      "expressions" : [ "City of Light", "Paris", "Capital of France" ],
+          "metadata" : "CITY_1234",
+        "value" : "Paris"
+          } ],
+          "builtin" : false,
+            "doc" : "A city that I like",
+              "name" : "favorite_city",
+                "id" : "5418abc7-cc68-4073-ae9e-3a5c3c81d965"
+}
